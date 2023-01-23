@@ -1,6 +1,6 @@
 ---
-kip: 
-title: KIP Leveraged tokens to trade on Kwenta Exchange
+kip: 59
+title: Leveraged tokens to trade on Kwenta Exchange
 status: Draft
 author: Mat Nelsen <mat@dhedge.org>
 created: 2023-01-19
