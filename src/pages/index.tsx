@@ -10,6 +10,10 @@ const IndexPage = () => (
       <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       <link rel="alt" href="/favicon.ico" />
     </Helmet>
+    <h1>DEPRECATION NOTICE</h1>
+    <p>
+    The Kwenta/KIPs repository has been deprecated in favor of the Kwenta State Log as outlined in [KIP-40](https://kips.kwenta.io/kips/kip-40/). The new repository can be found at [https://app.radicle.xyz/seeds/maple.radicle.garden/rad:git:hnrkq1oex148yz4zi9tm7spfnjaryyuc93yay/tree/master](https://app.radicle.xyz/seeds/maple.radicle.garden/rad:git:hnrkq1oex148yz4zi9tm7spfnjaryyuc93yay/tree/master)
+    </p>
     <h1 className="page-heading">
       Kwenta Improvement Proposals{' '}
       {/* <a
