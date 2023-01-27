@@ -1,3 +1,9 @@
+# DEPRECATION NOTICE
+The `Kwenta/KIPs` repository has been deprecated in favor of the **Kwenta State Log** as outlined in [KIP-40](content/kips/kip-40.md).
+
+The new repository can be found at https://app.radicle.xyz/seeds/maple.radicle.garden/rad:git:hnrkq1oex148yz4zi9tm7spfnjaryyuc93yay/tree/master
+
+
 # KIPs [![Discord](https://img.shields.io/discord/413890591840272394.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord.gg/t7J2qAyeRT) [![Twitter Follow](https://img.shields.io/twitter/follow/kwenta_io?style=social)](https://twitter.com/kwenta_io)
 
 Kwenta Improvement Proposals (KIPs) describe standards for the Kwenta platform, including core protocol specifications, client APIs, and contract standards.
