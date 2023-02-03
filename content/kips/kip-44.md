@@ -1,7 +1,7 @@
 ---
 kip: 44
 title: Establish Trial MarketingDAO Grants Council
-status: Draft
+status: Implemented
 author: Burt Rock (@BurtRock)
 created: 2022-11-25
 ---
